@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+  <Project Path="Marketplace.Application/Marketplace.Application.csproj" />
+  <Project Path="Marketplace.Domain/Marketplace.Domain.csproj" />
+  <Project Path="Marketplace.Infrastructure/Marketplace.Infrastructure.csproj" />
+  <Project Path="Marketplace.WebAPI/Marketplace.WebAPI.csproj" Id="97ecdb44-5b77-4283-82dc-b8d006d5ef08" />
+</Solution>
